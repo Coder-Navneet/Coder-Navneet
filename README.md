@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Navneet Verma
 
-<!--
-**Coder-Navneet/Coder-Navneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Sc Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 PHP & MySQL Developer
+
+🌐 Web Developer
+
+📍 Dewas, Madhya Pradesh, India
+
+---
+
+## 🛠 Skills
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced PHP
+- MySQL Optimization
+  
+---
+
+## 🚀 Current Projects
+
+- Inventory Management System
+- School Management System
+- PHP CRUD Application
+- Bootstrap Website
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **your-email@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/navneet-verma-69a2363a4/
+
+🐙 GitHub:
+https://github.com/Coder-Navneet
+
+---
+
+⭐ Thanks for visiting my profile!
