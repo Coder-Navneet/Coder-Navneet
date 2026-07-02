@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 
-📧 Email: **your-email@gmail.com**
+📧 Email: **vnavneet207@gmail.com**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/navneet-verma-69a2363a4/
